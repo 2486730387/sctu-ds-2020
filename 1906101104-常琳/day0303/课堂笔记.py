@@ -93,7 +93,7 @@ class Test2():
     def __init__(self):
         self.t2='我是子类'
     def f(self,object):
-        print('这是我',object.f())
+        print('this is my',object.f())
 b=Test()
 a=Test2()
 a.f(b)
