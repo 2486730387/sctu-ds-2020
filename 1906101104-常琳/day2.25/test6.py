@@ -16,5 +16,3 @@ else:
         sum+=b
 print(sum)
 
-a=[0]*4
-print(a)

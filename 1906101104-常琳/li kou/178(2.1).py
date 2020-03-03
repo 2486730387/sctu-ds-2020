@@ -10,7 +10,6 @@ for i in a:
                 count-=1*(100**(len(a)-k))
     list1.append(count)
 list1,a=zip(*sorted(zip(list1,a)))
-print(list1)
 list2=''
 for m in a:
     list2 += m
