@@ -7,6 +7,7 @@ x=Myclass()
 print('Myclass类的属性i为：',x.i)
 print('Myclass类的方法f的输出为：',x.f())
 
+
 #用类实现a-z的打印以及A-Z的逆序打印
 class Test():
     def original(self):
