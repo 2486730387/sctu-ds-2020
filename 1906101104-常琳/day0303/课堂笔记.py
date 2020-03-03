@@ -88,7 +88,7 @@ class Test():
     def __init__(self):
         self.t1='我是父类'
     def f(self):
-        return '爸爸'
+        return 'father'
 class Test2():
     def __init__(self):
         self.t2='我是子类'
