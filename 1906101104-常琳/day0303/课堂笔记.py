@@ -97,9 +97,3 @@ class Test2():
 b=Test()
 a=Test2()
 a.f(b)
-
-
-
-
-
-
